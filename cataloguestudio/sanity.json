@@ -4,7 +4,7 @@
     "name": "catalogue-studio"
   },
   "api": {
-    "projectId": "sajbh0gu",
+    "projectId": "4bxpvi3f",
     "dataset": "production"
   },
   "plugins": [
@@ -16,9 +16,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
